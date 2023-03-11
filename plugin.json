@@ -6,7 +6,7 @@
     "Author":"Doma",        
     "Version":"0.1.0",        
     "Language":"javascript",      
-    "url": "",
+    "url": "https://github.com/Mada3333/flow-launcher-NotionPost",
     "IcoPath": "Images/Notion_app_logo.png",       
     "ExecuteFileName":"main.js" 
   }
