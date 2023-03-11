@@ -1,0 +1,13 @@
+{
+    "ID":"6edf5907-aabe-4148-9972-d2d4bad6a498",             
+    "ActionKeyword":"np", 
+    "Name":"NotionPost",          
+    "Description":"Post a text in pages and databases",    
+    "Author":"Doma",        
+    "Version":"0.1.0",        
+    "Language":"javascript",      
+    "url": "",
+    "IcoPath": "Images/Notion_app_logo.png",       
+    "ExecuteFileName":"main.js" 
+  }
+  
